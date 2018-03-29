@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recipe Search</string>
+    <string name="button_text">Search Recipes!</string>
+    <string name="SearchText1">Diet Restrictions:</string>
+    <string name="SearchText2">Servings:</string>
+    <string name="SearchText3">Preparation Time:</string>
+</resources>
